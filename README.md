@@ -1,6 +1,6 @@
 # PhotoEditor
 
-# Libraries Used :
+## Libraries Used :
 
 <ul>
   <li>Image Picker Library</li>
